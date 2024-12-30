@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MultithreadingAsync/1.0.0": {
+        "runtime": {
+          "MultithreadingAsync.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MultithreadingAsync/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

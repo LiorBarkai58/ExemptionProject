@@ -1,0 +1,14 @@
+d:\Code\Csharp\MultithreadingAsync\MultithreadingAsync\bin\Debug\net8.0\MultithreadingAsync.exe
+d:\Code\Csharp\MultithreadingAsync\MultithreadingAsync\bin\Debug\net8.0\MultithreadingAsync.deps.json
+d:\Code\Csharp\MultithreadingAsync\MultithreadingAsync\bin\Debug\net8.0\MultithreadingAsync.runtimeconfig.json
+d:\Code\Csharp\MultithreadingAsync\MultithreadingAsync\bin\Debug\net8.0\MultithreadingAsync.dll
+d:\Code\Csharp\MultithreadingAsync\MultithreadingAsync\bin\Debug\net8.0\MultithreadingAsync.pdb
+d:\Code\Csharp\MultithreadingAsync\MultithreadingAsync\obj\Debug\net8.0\MultithreadingAsync.GeneratedMSBuildEditorConfig.editorconfig
+d:\Code\Csharp\MultithreadingAsync\MultithreadingAsync\obj\Debug\net8.0\MultithreadingAsync.AssemblyInfoInputs.cache
+d:\Code\Csharp\MultithreadingAsync\MultithreadingAsync\obj\Debug\net8.0\MultithreadingAsync.AssemblyInfo.cs
+d:\Code\Csharp\MultithreadingAsync\MultithreadingAsync\obj\Debug\net8.0\MultithreadingAsync.csproj.CoreCompileInputs.cache
+d:\Code\Csharp\MultithreadingAsync\MultithreadingAsync\obj\Debug\net8.0\MultithreadingAsync.dll
+d:\Code\Csharp\MultithreadingAsync\MultithreadingAsync\obj\Debug\net8.0\refint\MultithreadingAsync.dll
+d:\Code\Csharp\MultithreadingAsync\MultithreadingAsync\obj\Debug\net8.0\MultithreadingAsync.pdb
+d:\Code\Csharp\MultithreadingAsync\MultithreadingAsync\obj\Debug\net8.0\MultithreadingAsync.genruntimeconfig.cache
+d:\Code\Csharp\MultithreadingAsync\MultithreadingAsync\obj\Debug\net8.0\ref\MultithreadingAsync.dll
