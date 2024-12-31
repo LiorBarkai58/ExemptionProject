@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Code\\Csharp\\MultithreadingAsync\\MultithreadingAsync\\MultithreadingAsync.csproj": {}
+    "d:\\Code\\Csharp\\MultithreadingAsync\\MultithreadingAsync\\MultithreadingAsync.csproj": {}
   },
   "projects": {
-    "D:\\Code\\Csharp\\MultithreadingAsync\\MultithreadingAsync\\MultithreadingAsync.csproj": {
+    "d:\\Code\\Csharp\\MultithreadingAsync\\MultithreadingAsync\\MultithreadingAsync.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Code\\Csharp\\MultithreadingAsync\\MultithreadingAsync\\MultithreadingAsync.csproj",
+        "projectUniqueName": "d:\\Code\\Csharp\\MultithreadingAsync\\MultithreadingAsync\\MultithreadingAsync.csproj",
         "projectName": "MultithreadingAsync",
-        "projectPath": "D:\\Code\\Csharp\\MultithreadingAsync\\MultithreadingAsync\\MultithreadingAsync.csproj",
+        "projectPath": "d:\\Code\\Csharp\\MultithreadingAsync\\MultithreadingAsync\\MultithreadingAsync.csproj",
         "packagesPath": "C:\\Users\\lior5\\.nuget\\packages\\",
-        "outputPath": "D:\\Code\\Csharp\\MultithreadingAsync\\MultithreadingAsync\\obj\\",
+        "outputPath": "d:\\Code\\Csharp\\MultithreadingAsync\\MultithreadingAsync\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lior5\\AppData\\Roaming\\NuGet\\NuGet.Config",

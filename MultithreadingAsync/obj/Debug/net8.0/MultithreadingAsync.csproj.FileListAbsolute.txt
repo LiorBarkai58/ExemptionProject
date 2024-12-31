@@ -12,3 +12,4 @@ d:\Code\Csharp\MultithreadingAsync\MultithreadingAsync\obj\Debug\net8.0\refint\M
 d:\Code\Csharp\MultithreadingAsync\MultithreadingAsync\obj\Debug\net8.0\MultithreadingAsync.pdb
 d:\Code\Csharp\MultithreadingAsync\MultithreadingAsync\obj\Debug\net8.0\MultithreadingAsync.genruntimeconfig.cache
 d:\Code\Csharp\MultithreadingAsync\MultithreadingAsync\obj\Debug\net8.0\ref\MultithreadingAsync.dll
+d:\Code\Csharp\MultithreadingAsync\MultithreadingAsync\obj\Debug\net8.0\MultithreadingAsync.sourcelink.json

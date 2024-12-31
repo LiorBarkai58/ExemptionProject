@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MultithreadingAsync
-build_property.ProjectDir = D:\Code\Csharp\MultithreadingAsync\MultithreadingAsync\
+build_property.ProjectDir = d:\Code\Csharp\MultithreadingAsync\MultithreadingAsync\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
